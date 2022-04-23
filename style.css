@@ -1,0 +1,28 @@
+.marca{
+    color: yellow;
+  }
+  
+  .marca:hover{
+    color: green;
+  }
+  
+  .marca:active{
+    color: blue;
+  }
+  
+
+  
+  .con{
+    color: purple;
+  }
+  
+  .con:hover{
+    color: red;
+  }
+  
+  .con:active{
+    color: blue;
+  }
+  
+
+ 
